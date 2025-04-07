@@ -3,7 +3,7 @@ STATS 3DA3 Homework Assignment 6 Link of the Dataset: https://archive.ics.uci.ed
 
 Dataset Information
 The dataset is available at the UCI Machine Learning Repository:
-￿ https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 Key Features:
 
